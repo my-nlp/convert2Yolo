@@ -1,0 +1,10 @@
+/Users/xzm/Downloads/AppleImages/convert2Yolo/voc_test_data/images/demo_apple1.jpg
+/Users/xzm/Downloads/AppleImages/convert2Yolo/voc_test_data/images/demo_apple2.jpg
+/Users/xzm/Downloads/AppleImages/convert2Yolo/voc_test_data/images/demo_apple3.jpg
+/Users/xzm/Downloads/AppleImages/convert2Yolo/voc_test_data/images/demo_apple.jpg
+/Users/xzm/Downloads/AppleImages/convert2Yolo/voc_test_data/images/demo_apple7.jpg
+/Users/xzm/Downloads/AppleImages/convert2Yolo/voc_test_data/images/demo_apple6.jpg
+/Users/xzm/Downloads/AppleImages/convert2Yolo/voc_test_data/images/demo_apple4.jpg
+/Users/xzm/Downloads/AppleImages/convert2Yolo/voc_test_data/images/demo_apple5.jpg
+/Users/xzm/Downloads/AppleImages/convert2Yolo/voc_test_data/images/demo_apple8.jpg
+/Users/xzm/Downloads/AppleImages/convert2Yolo/voc_test_data/images/demo_apple9.jpg
